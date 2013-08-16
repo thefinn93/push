@@ -1,0 +1,3 @@
+<?
+function recentNotifications($count) {
+}
